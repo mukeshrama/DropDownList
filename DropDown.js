@@ -1,19 +1,4 @@
-//HTML Code
-<html>
-<head>
-  <title>Test</title>
-</head>
-<body>
-<button onClick=AddList()>Add</button>
-<button onClick=Display()>Display</button>
-<button onClick=Remove()>Remove</button>
-<br><br>
-<select id="list"></select>
-<div id="displaylist">
-  
-</div>
-</body>
-</html>
+
 
 // Javascript code
 function AddList()
